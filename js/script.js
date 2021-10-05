@@ -10,5 +10,5 @@ if (question  === `add`) {
 } else if (question  === `div`) {
     alert(`${numOne} / ${numTwo} = ${numOne / numTwo}`);
 } else {
-    alert(`Вероятно вы ввели что-то неправильно`)
+    alert(`Вероятно, вы ввели что-то неправильно`)
 }
